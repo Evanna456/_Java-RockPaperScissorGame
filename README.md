@@ -1,5 +1,3 @@
-# _Java-RockPaperScissorGame
-
 ## About _Java-RockPaperScissorGame
 
 Rock Paper Scissor Game
